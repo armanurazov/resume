@@ -29,6 +29,10 @@ img{
 }
 p{
     font-size: 15px;
+
+}
+.job-descr{
+    font-size: 15px;
     font-style: italic;
 }
 .education-img{
@@ -59,4 +63,24 @@ p{
 }
 .work-cont{
     width: 65%;
+}
+.about-img{
+    border-radius: 50%;
+    width: 200px;
+}
+.about{
+    margin:0;
+}
+.project{
+    text-align: left;
+}
+
+.project-con{
+    margin-top: 70px;
+}
+
+.project-img{
+    border: 1px solid black;
+    border-radius: 0%;
+    width: 600px;
 }
