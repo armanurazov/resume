@@ -1,0 +1,15 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+.col{
+    margin: 10px;
+}
+a, a:visited, a:hover, a:active {
+    color: inherit;
+    font-size: 18px;
+    text-decoration: none;
+}
+img{
+    border-radius: 50%;
+}
