@@ -9,6 +9,8 @@ Navigate using the header hyperlinks to pages:
 - Projects
 - Contact
 
+Deployed on heroku: https://arman-urazov.herokuapp.com 
+
 ********************************
 
 Author: Arman Urazov
