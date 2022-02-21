@@ -24,4 +24,4 @@ app.get('/contact', (req, res) =>{
     res.sendFile(__dirname + '/contact.html');
 })
 
-app.listen(PORT, console.log('Connected to ' + PORT));
+app.listen(process.env.PORT || PORT, console.log('Connected to ' + PORT));
