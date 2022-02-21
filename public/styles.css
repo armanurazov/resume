@@ -5,11 +5,40 @@ body{
 .col{
     margin: 10px;
 }
+.contact-col{
+    margin-top: 25%;
+    text-align: center;
+    height: 200px;
+}
+.education-col{
+    margin-top: 20px;
+    font-size: 25px;
+    text-align: left;
+    height: 100px;
+}
 a, a:visited, a:hover, a:active {
     color: inherit;
     font-size: 18px;
     text-decoration: none;
 }
+a:hover{
+    color: red;
+}
 img{
     border-radius: 50%;
+}
+p{
+    font-size: 15px;
+    font-style: italic;
+}
+.education-img{
+    border-radius: 0%;
+    width: 300px;
+}
+.education-name, a:active{
+    font-size: 30px;
+}
+.education-name:hover{
+    font-size: 30px;
+    color: red;
 }
