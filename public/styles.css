@@ -24,7 +24,11 @@ a, a:visited, a:hover, a:active {
 a:hover{
     color: red;
 }
-img{
+/* img{
+    border-radius: 50%;
+} */
+#index-image{
+    width: 40%;
     border-radius: 50%;
 }
 p{
