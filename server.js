@@ -20,6 +20,10 @@ app.get('/work', (req, res) =>{
     res.sendFile(__dirname + '/work.html');
 })
 
+app.get('/projects', (req, res) =>{
+    res.sendFile(__dirname + '/projects.html');
+})
+
 app.get('/contact', (req, res) =>{
     res.sendFile(__dirname + '/contact.html');
 })

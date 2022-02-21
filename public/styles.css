@@ -42,3 +42,18 @@ p{
     font-size: 30px;
     color: red;
 }
+.work-col{
+    text-align: center;
+    margin: 3px;
+    margin-bottom: 30px;
+}
+#work-github {
+    text-align: right;
+}
+
+.work-name, .work-name:hover{
+    font-size: 25px;
+}
+.work-name:hover{
+    color: red;
+}
