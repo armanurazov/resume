@@ -39,7 +39,8 @@ p{
 }
 .education-img{
     border-radius: 0%;
-    width: 300px;
+    width: 60%;
+    margin-left: 100px;
 }
 .education-name, a:active{
     font-size: 30px;
