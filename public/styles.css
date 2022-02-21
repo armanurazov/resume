@@ -57,6 +57,9 @@ p{
 #work-github {
     text-align: right;
 }
+#work-reference{
+    text-align: left;
+}
 
 .work-name, .work-name:hover{
     font-size: 25px;
