@@ -57,3 +57,6 @@ p{
 .work-name:hover{
     color: red;
 }
+.work-cont{
+    width: 65%;
+}
